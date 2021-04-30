@@ -17,6 +17,8 @@
 [GitHub Link](https://github.com/moecory11/e-commerce-back-end)
   ## Usage 
           The application can be utilized through using Insomnia to work with creating, deleting, updating and viewing all categories, products and tags in the company.
+[Walk-through video Link](https://drive.google.com/file/d/1Z277SwN730qhKNejIneC7CoyfNAC5WaH/view)
+[Walk-through video Link 2](https://drive.google.com/file/d/1kX0pml7MJD7b1mfJg18v2hS5uEmJUcJE/view)
   ## License
           MIT
   ## Contributing
